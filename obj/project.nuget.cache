@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gtpXdCD14b8=",
+  "dgSpecHash": "Y7PZzUmFbz0=",
   "success": true,
-  "projectFilePath": "C:\\DocAiApi\\Auth\\AuthAPI\\UserAccountAPI.csproj",
+  "projectFilePath": "C:\\Users\\Ahmed\\Downloads\\Auth (4)\\Auth\\AuthAPI\\UserAccountAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmed\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Ahmed\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
